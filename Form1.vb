@@ -1,7 +1,15 @@
 ﻿Public Class Form1
+<<<<<<< HEAD
 
 
     Private Sub RadioButton2_CheckedChanged(sender As Object, e As EventArgs) Handles RadioButton2.CheckedChanged
+=======
+    Private Sub Form1_Load(sender As Object, e As EventArgs) Handles MyBase.Load
+
+    End Sub
+
+    Private Sub RadioButton2_CheckedChanged(sender As Object, e As EventArgs) Handles RadioButton1.CheckedChanged
+>>>>>>> master
         Me.Hide()
         Dim F2 As New Form2
         F2.ShowDialog()
