@@ -28,7 +28,7 @@ Partial Class Form2
         Me.RadioButton6 = New System.Windows.Forms.RadioButton()
         Me.PictureBox1 = New System.Windows.Forms.PictureBox()
         Me.TshirtBox1 = New System.Windows.Forms.PictureBox()
-        Me.TextBox1 = New System.Windows.Forms.TextBox()
+        Me.Hoodie = New System.Windows.Forms.TextBox()
         CType(Me.BackBox2, System.ComponentModel.ISupportInitialize).BeginInit()
         CType(Me.PictureBox1, System.ComponentModel.ISupportInitialize).BeginInit()
         CType(Me.TshirtBox1, System.ComponentModel.ISupportInitialize).BeginInit()
@@ -96,17 +96,17 @@ Partial Class Form2
         Me.TshirtBox1.TabIndex = 15
         Me.TshirtBox1.TabStop = False
         '
-        'TextBox1
+        'Hoodie
         '
-        Me.TextBox1.Font = New System.Drawing.Font("Snap ITC", 28.2!, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point)
-        Me.TextBox1.Location = New System.Drawing.Point(486, 89)
-        Me.TextBox1.Multiline = True
-        Me.TextBox1.Name = "TextBox1"
-        Me.TextBox1.Size = New System.Drawing.Size(629, 75)
-        Me.TextBox1.TabIndex = 14
-        Me.TextBox1.Text = "Clothing Customization"
-        Me.TextBox1.TextAlign = System.Windows.Forms.HorizontalAlignment.Center
-        Me.TextBox1.UseSystemPasswordChar = True
+        Me.Hoodie.Font = New System.Drawing.Font("Snap ITC", 28.2!, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point)
+        Me.Hoodie.Location = New System.Drawing.Point(488, 89)
+        Me.Hoodie.Multiline = True
+        Me.Hoodie.Name = "Hoodie"
+        Me.Hoodie.Size = New System.Drawing.Size(629, 75)
+        Me.Hoodie.TabIndex = 14
+        Me.Hoodie.Text = "Hoodie"
+        Me.Hoodie.TextAlign = System.Windows.Forms.HorizontalAlignment.Center
+        Me.Hoodie.UseSystemPasswordChar = True
         '
         'Form2
         '
@@ -120,7 +120,7 @@ Partial Class Form2
         Me.Controls.Add(Me.RadioButton6)
         Me.Controls.Add(Me.PictureBox1)
         Me.Controls.Add(Me.TshirtBox1)
-        Me.Controls.Add(Me.TextBox1)
+        Me.Controls.Add(Me.Hoodie)
         Me.Name = "Form2"
         Me.Text = "Form2"
         CType(Me.BackBox2, System.ComponentModel.ISupportInitialize).EndInit()
@@ -137,5 +137,5 @@ Partial Class Form2
     Friend WithEvents RadioButton6 As RadioButton
     Friend WithEvents PictureBox1 As PictureBox
     Friend WithEvents TshirtBox1 As PictureBox
-    Friend WithEvents TextBox1 As TextBox
+    Friend WithEvents Hoodie As TextBox
 End Class
