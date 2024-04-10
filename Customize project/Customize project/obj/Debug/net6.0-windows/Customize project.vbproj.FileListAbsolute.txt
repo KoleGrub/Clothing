@@ -36,3 +36,23 @@ C:\Users\kkgru498\Desktop\Clothing\Customize project\Customize project\bin\Debug
 C:\Users\kkgru498\Desktop\Clothing\Customize project\Customize project\obj\Debug\net6.0-windows\Customize project.genruntimeconfig.cache
 C:\Users\kkgru498\Desktop\Clothing\Customize project\Customize project\obj\Debug\net6.0-windows\ref\Customize project.dll
 C:\Users\kkgru498\Desktop\Clothing\Customize project\Customize project\obj\Debug\net6.0-windows\Customize_project.StartForm.resources
+C:\Users\xrbro710\Desktop\Clothing\Customize project\Customize project\bin\Debug\net6.0-windows\Customize project.exe
+C:\Users\xrbro710\Desktop\Clothing\Customize project\Customize project\bin\Debug\net6.0-windows\Customize project.deps.json
+C:\Users\xrbro710\Desktop\Clothing\Customize project\Customize project\bin\Debug\net6.0-windows\Customize project.runtimeconfig.json
+C:\Users\xrbro710\Desktop\Clothing\Customize project\Customize project\bin\Debug\net6.0-windows\Customize project.dll
+C:\Users\xrbro710\Desktop\Clothing\Customize project\Customize project\bin\Debug\net6.0-windows\Customize project.pdb
+C:\Users\xrbro710\Desktop\Clothing\Customize project\Customize project\obj\Debug\net6.0-windows\Customize project.vbproj.AssemblyReference.cache
+C:\Users\xrbro710\Desktop\Clothing\Customize project\Customize project\obj\Debug\net6.0-windows\Customize_project.Form2.resources
+C:\Users\xrbro710\Desktop\Clothing\Customize project\Customize project\obj\Debug\net6.0-windows\Customize_project.Form3.resources
+C:\Users\xrbro710\Desktop\Clothing\Customize project\Customize project\obj\Debug\net6.0-windows\Customize_project.Resources.resources
+C:\Users\xrbro710\Desktop\Clothing\Customize project\Customize project\obj\Debug\net6.0-windows\Customize_project.StartForm.resources
+C:\Users\xrbro710\Desktop\Clothing\Customize project\Customize project\obj\Debug\net6.0-windows\Customize project.vbproj.GenerateResource.cache
+C:\Users\xrbro710\Desktop\Clothing\Customize project\Customize project\obj\Debug\net6.0-windows\Customize project.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\xrbro710\Desktop\Clothing\Customize project\Customize project\obj\Debug\net6.0-windows\Customize project.AssemblyInfoInputs.cache
+C:\Users\xrbro710\Desktop\Clothing\Customize project\Customize project\obj\Debug\net6.0-windows\Customize project.AssemblyInfo.vb
+C:\Users\xrbro710\Desktop\Clothing\Customize project\Customize project\obj\Debug\net6.0-windows\Customize project.vbproj.CoreCompileInputs.cache
+C:\Users\xrbro710\Desktop\Clothing\Customize project\Customize project\obj\Debug\net6.0-windows\Customize project.dll
+C:\Users\xrbro710\Desktop\Clothing\Customize project\Customize project\obj\Debug\net6.0-windows\refint\Customize project.dll
+C:\Users\xrbro710\Desktop\Clothing\Customize project\Customize project\obj\Debug\net6.0-windows\Customize project.pdb
+C:\Users\xrbro710\Desktop\Clothing\Customize project\Customize project\obj\Debug\net6.0-windows\Customize project.genruntimeconfig.cache
+C:\Users\xrbro710\Desktop\Clothing\Customize project\Customize project\obj\Debug\net6.0-windows\ref\Customize project.dll

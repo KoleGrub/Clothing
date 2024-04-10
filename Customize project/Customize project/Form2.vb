@@ -3,11 +3,17 @@
 
     End Sub
     Private Sub RadioButton3_CheckedChanged(sender As Object, e As EventArgs) Handles RadioButton5.CheckedChanged
+
+    End Sub
+
+    Private Sub RadioButton6_CheckedChanged(sender As Object, e As EventArgs) Handles RadioButton6.CheckedChanged
         Me.Hide()
         Dim F3 As New Form3
         F3.ShowDialog()
         Me.Show()
     End Sub
+<<<<<<< HEAD
+=======
 
     Private Sub Button1_Click(sender As Object, e As EventArgs) Handles Button1.Click
         PictureBox1.Visible = True
@@ -43,4 +49,5 @@
         PictureBox3.Visible = False
         PictureBox4.Visible = False
     End Sub
+>>>>>>> master
 End Class
