@@ -111,10 +111,10 @@ Partial Class Form3
         'TextBox1
         '
         Me.TextBox1.Font = New System.Drawing.Font("Snap ITC", 28.2!, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point)
-        Me.TextBox1.Location = New System.Drawing.Point(340, 69)
+        Me.TextBox1.Location = New System.Drawing.Point(300, 69)
         Me.TextBox1.Multiline = True
         Me.TextBox1.Name = "TextBox1"
-        Me.TextBox1.Size = New System.Drawing.Size(629, 75)
+        Me.TextBox1.Size = New System.Drawing.Size(639, 75)
         Me.TextBox1.TabIndex = 11
         Me.TextBox1.Text = "Long sleeve"
         Me.TextBox1.TextAlign = System.Windows.Forms.HorizontalAlignment.Center

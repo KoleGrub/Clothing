@@ -17,7 +17,6 @@ C:\Users\kkgru498\Desktop\SY-23-24\Customize project\Customize project\obj\Debug
 C:\Users\kkgru498\Desktop\SY-23-24\Customize project\Customize project\obj\Debug\net6.0-windows\ref\Customize project.dll
 C:\Users\kkgru498\Desktop\SY-23-24\Customize project\Customize project\obj\Debug\net6.0-windows\Customize_project.Form2.resources
 C:\Users\kkgru498\Desktop\Clothing\Customize project\Customize project\obj\Debug\net6.0-windows\Customize project.vbproj.AssemblyReference.cache
-C:\Users\kkgru498\Desktop\Clothing\Customize project\Customize project\obj\Debug\net6.0-windows\Customize_project.Form1.resources
 C:\Users\kkgru498\Desktop\Clothing\Customize project\Customize project\obj\Debug\net6.0-windows\Customize_project.Form2.resources
 C:\Users\kkgru498\Desktop\Clothing\Customize project\Customize project\obj\Debug\net6.0-windows\Customize_project.Form3.resources
 C:\Users\kkgru498\Desktop\Clothing\Customize project\Customize project\obj\Debug\net6.0-windows\Customize project.vbproj.GenerateResource.cache
