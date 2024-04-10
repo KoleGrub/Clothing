@@ -1,23 +1,23 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\kkgru498\\Desktop\\Clothing\\Customize project\\Customize project\\Customize project.vbproj": {}
+    "C:\\Users\\xrbro710\\Desktop\\Clothing\\Customize project\\Customize project\\Customize project.vbproj": {}
   },
   "projects": {
-    "C:\\Users\\kkgru498\\Desktop\\Clothing\\Customize project\\Customize project\\Customize project.vbproj": {
+    "C:\\Users\\xrbro710\\Desktop\\Clothing\\Customize project\\Customize project\\Customize project.vbproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\kkgru498\\Desktop\\Clothing\\Customize project\\Customize project\\Customize project.vbproj",
+        "projectUniqueName": "C:\\Users\\xrbro710\\Desktop\\Clothing\\Customize project\\Customize project\\Customize project.vbproj",
         "projectName": "Customize project",
-        "projectPath": "C:\\Users\\kkgru498\\Desktop\\Clothing\\Customize project\\Customize project\\Customize project.vbproj",
-        "packagesPath": "C:\\Users\\kkgru498\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\kkgru498\\Desktop\\Clothing\\Customize project\\Customize project\\obj\\",
+        "projectPath": "C:\\Users\\xrbro710\\Desktop\\Clothing\\Customize project\\Customize project\\Customize project.vbproj",
+        "packagesPath": "C:\\Users\\xrbro710\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\xrbro710\\Desktop\\Clothing\\Customize project\\Customize project\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
         ],
         "configFilePaths": [
-          "C:\\Users\\kkgru498\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\xrbro710\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],

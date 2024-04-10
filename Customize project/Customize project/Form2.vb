@@ -3,11 +3,13 @@
 
     End Sub
     Private Sub RadioButton3_CheckedChanged(sender As Object, e As EventArgs) Handles RadioButton5.CheckedChanged
+
+    End Sub
+
+    Private Sub RadioButton6_CheckedChanged(sender As Object, e As EventArgs) Handles RadioButton6.CheckedChanged
         Me.Hide()
         Dim F3 As New Form3
         F3.ShowDialog()
         Me.Show()
     End Sub
-
-
 End Class
