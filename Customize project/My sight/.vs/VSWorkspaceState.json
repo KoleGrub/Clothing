@@ -1,6 +1,9 @@
 {
   "ExpandedNodes": [
-    ""
+    "",
+    "\\Mysight",
+    "\\Mysight\\img",
+    "\\Mysight\\src"
   ],
   "PreviewInSolutionExplorer": false
 }
