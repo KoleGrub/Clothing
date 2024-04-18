@@ -16,10 +16,39 @@
 }
 
 .text {
+    font-style:revert ;
     position: absolute;
     top: 50%;
     left: 50%;
     transform: translate(-50%, -50%);
     text-align: center;
-    color: white; /* Adjust text color as needed */
+    color: bisque; /* Adjust text color as needed */
 }
+.tab button {
+    background-color: #f2f2f2;
+    border: none;
+    outline: none;
+    cursor: pointer;
+    padding: 10px 20px;
+    transition: background-color 0.3s;
+}
+
+    .tab button:hover {
+        background-color: #ddd;
+    }
+
+    /* Style the active tab button */
+    .tab button.active {
+        background-color: #ccc;
+    }
+
+/* Style the tab content */
+.tabcontent {
+    display: none;
+    padding: 20px;
+}
+
+    /* Make the first tab content visible by default */
+    .tabcontent:first-child {
+        display: block;
+    }
